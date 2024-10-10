@@ -11,7 +11,7 @@ export default function PetFrom(){
         const formJson = Object.fromEntries(_____);
 
         try { 
-            const resHerb = _____ fetch(
+            const resPet = _____ fetch(
                 '_____',
                 {
                     method: '_____',
